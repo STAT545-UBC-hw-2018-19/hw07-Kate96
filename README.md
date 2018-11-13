@@ -7,7 +7,7 @@ NB: instructions for HW07 are found [here](http://stat545.com/Classroom/assignme
 
 Modified [Foofactors package by Jenny Bryan](https://github.com/jennybc/foofactors) 
 
-I picked the following task from HW07: for `foofactors` package, write a version of `reorder()` that uses `desc()` a la dplyr. I called the function `fct_desc()`.
+**I picked the following task from HW07: for `foofactors` package, write a version of `reorder()` that uses `desc()` a la dplyr. I called the function `fct_desc()`.**
 
 #### This repo contains:
 

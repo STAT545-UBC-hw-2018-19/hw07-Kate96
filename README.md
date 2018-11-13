@@ -1,18 +1,3 @@
-# HW07 repository
-
-This is the repository for the ***7th homework assignment*** for UBC STAT545/547M course (2018W).
-- Completed by *Kate Tyshchenko (Kate96)*
-
-#### This repo contains:
-1. 
-
-NB: instructions for HW07 are found [here](http://stat545.com/Classroom/assignments/hw07/hw07.html)
-
-[Foofactors package by Jenny Bryan](https://github.com/jennybc/foofactors) 
-
-
-
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 **NOTE: This is a toy package created for expository purposes. It is not meant to actually be useful. If you want a package for factor handling, please see [forcats](https://cran.r-project.org/package=forcats).**
 
